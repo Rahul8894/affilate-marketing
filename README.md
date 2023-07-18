@@ -1,2 +1,1 @@
-# affilate
 # affilate-marketing
